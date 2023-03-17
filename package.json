@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "responsive portfolio",
   "main": "index.js",
-  "homepage": "https://qutbands.github.io/PortfolioWorkshop",
+  "homepage": "https://serenanguyen2511.github.io/PortfolioWorkshop",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "QUT Bands",
+  "author": "Serena Nguyen",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^4.0.0",
